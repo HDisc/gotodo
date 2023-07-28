@@ -1,4 +1,4 @@
-overage:
+coverage:
   paths:
     - coverage.out
 codeToTestRatio:
