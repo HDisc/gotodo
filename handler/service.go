@@ -7,6 +7,10 @@ import (
 )
 
 //go:generate go run github.com/matryer/moq -out moq_test.go . ListTasksService AddTaskService
+type RegisterUserService interface {
+	RegisterUser(ctx context.Context, name, password, role string) (*entity.User, error)
+}
+
 type ListTasksService interface {
 	ListTasks(ctx context.Context) (entity.Tasks, error)
 }
