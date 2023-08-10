@@ -1,2 +1,13 @@
-# gotodo
-TODO app hands-on with Go
+# ToDoアプリ
+
+書籍のハンズオンで作成した、Goで書かれたToDoアプリです。
+
+## 📘参考にした書籍
+詳解Go言語Webアプリケーション開発  
+https://amzn.asia/d/6xiBZ7U
+
+![51+2jmxkUAL](https://github.com/HDisc/gotodo/assets/43948163/ab07d405-06f8-4354-aede-3ea59fcbeee9)
+
+## ⚠️注意
+書籍中でも言及されていますが、JWTの署名に使う**秘密鍵はリモートリポジトリにアップロードするべきではありません。**  
+このリポジトリはあくまで勉強用で作ったものであり、勉強過程の都合で仕方なくアップロードしています。真似しないでください。
