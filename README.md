@@ -6,7 +6,7 @@
 詳解Go言語Webアプリケーション開発  
 https://amzn.asia/d/6xiBZ7U
 
-![51+2jmxkUAL](https://github.com/HDisc/gotodo/assets/43948163/ab07d405-06f8-4354-aede-3ea59fcbeee9)
+![51+2jmxkUAL _SY346_](https://github.com/HDisc/gotodo/assets/43948163/d8b2dfdd-635a-4da6-93d8-2b07bb0d74df)
 
 ## ⚠️注意
 書籍中でも言及されていますが、JWTの署名に使う**秘密鍵はリモートリポジトリにアップロードするべきではありません。**  
